@@ -1,4 +1,4 @@
-/* Colors and Fronts */
+
 body {
         background-color: #FFC300;
         color: grey;
@@ -37,7 +37,7 @@ a:hover {
         color: black;
 }
 
-/* Custum design with class */
+/*  class */
 
 .container {
         width: 700px;
@@ -94,7 +94,7 @@ a:hover {
         color: rgb(75,75,75);
 }
 
-/* Design adjustements using id */
+/*  id */
 
 #introduction p {
         margin-bottom: 40px;
